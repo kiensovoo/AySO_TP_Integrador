@@ -11,7 +11,7 @@
 Este repositorio almacena el trabajo integrador de la materia Arquitectura y Sistemas Operativos. El cual consistió en la creación de una máquina virtual en Ubuntu 24.04.2 y la ejecución de un programa desarrollado en python dentro de la VM.
 
 ## Introducción y objetivo
-**Tema elegido: **Virtualización
+- **Tema elegido:** Virtualización
 La virtualización es una tecnología fundamental en la administración de sistemas y el desarrollo de software. Su implementación permite la ejecución de múltiples sistemas operativos en un mismo hardware, optimizando el uso de recursos y facilitando entornos de prueba seguros.
 
 El objetivo de este trabajo es analizar la virtualización desde una perspectiva teórica y práctica. Para ello, se abordarán sus conceptos clave, sus ventajas en sistemas operativos y se realizará un caso práctico utilizando VirtualBox para demostrar su aplicación en un entorno real.
